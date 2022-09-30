@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "Samsung",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 120,
+      "comment": "This is good",
+      "date": "2022-09-28T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "From Farm",
+      "date": "2022-09-05T21:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
